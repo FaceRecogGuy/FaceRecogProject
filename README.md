@@ -113,6 +113,8 @@ pip install numpy
 
 You do not need to put any faces into the `known_faces` folder, but if you do, try using your own. If these images do not show up in the ‘Known faces:’ print statement, retry in an environment with good lighting.
 
+Expect your face to be framed by a red square labelled `unknown` if you did not put any images in `known_faces`. If you did and it recognises your face, it will label the square as whatever you've named the image.
+
 ---
 
 Your setup is now complete!
