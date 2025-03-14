@@ -138,5 +138,5 @@ class FaceRecognition:
 
 
 if __name__ == "__main__":
-    fr = FaceRecognition(region_name="us-east-1")  # Change to your actual region name
+    fr = FaceRecognition(region_name="ap-southeast-1")  # Change to your actual region name
     fr.run_recognition()
