@@ -9,9 +9,9 @@
 ---
 
 ## **Setup**
-1. Start by downloading `boto3.py` and `verify.py`.
+1. Start by downloading `2ndBoto3.py` and `verify.py`.
 2. Create a new folder for the whole project and name it appropriately.
-3. Move `testBoto3.py` into this new folder.
+3. Move `2ndBoto3.py` into this new folder.
 4. Inside your newly created folder, create the following subfolders:
    - `known_faces`
    - `new_faces`
